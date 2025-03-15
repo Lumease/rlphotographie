@@ -246,6 +246,10 @@ email {
   text-decoration: none;
 }
 
+.network i:hover {
+  color: var(--color5);
+}
+
 .network a {
   text-decoration: none;
 }
