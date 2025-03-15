@@ -152,6 +152,10 @@ img:hover {
   text-decoration: none;
 }
 
+.network i:hover {
+  color: var(--color4);
+}
+
 .network a {
   text-decoration: none;
 }
