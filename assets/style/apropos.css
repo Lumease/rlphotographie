@@ -127,6 +127,11 @@ button:hover {
   margin-bottom: 50px;
 }
 
+.first-part a {
+  color: white;
+  text-decoration: none;
+}
+
 .second-part h2 {
   margin: 30px 0 30px 0;
 }
