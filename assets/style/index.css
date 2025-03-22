@@ -146,7 +146,7 @@ button {
 
 .projet-title {
   font-family: "Manrope";
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-bottom: 80px;
 }
 
@@ -162,7 +162,7 @@ button {
 /* ********* FORMULAIRE *********  */
 .form-title {
   color: var(--color4);
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   margin: 50px 55px;
 }
 
