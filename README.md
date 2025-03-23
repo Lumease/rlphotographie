@@ -1,5 +1,7 @@
 Edit :
 Le projet ne s'affiche pas correctement: HTML sans CSS. 
 
-Pistes : 
+Piste : 
 - Projet trop volumineux ? 
+
+Mise a jour du projet à venir. 
