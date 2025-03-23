@@ -1,2 +1,2 @@
 Edit :
-Le projet ne s'affiche pas correctement. 
+Le projet ne s'affiche pas correctement: HTML sans CSS. 
